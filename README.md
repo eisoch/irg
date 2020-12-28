@@ -34,9 +34,19 @@
 
 [\#74](https://github.com/eisoch/irg/issues/74) Negative RS value
 
+## Source character set
+
+[\#21](https://github.com/eisoch/irg/issues/21) Duplicates in SJ/T 11239-2001
+
+[\#72](https://github.com/eisoch/irg/issues/72) Original V Codes in TCVN 5773 and TCVN 6056
+
+[\#106](https://github.com/eisoch/irg/issues/106) Duplicates in Chinese character sets
+
 ## Variant
 
 [\#28](https://github.com/eisoch/irg/issues/28) Possible unification
+
+[\#89](https://github.com/eisoch/irg/issues/89) Ideographs of Empress Wu
 
 [\#92](https://github.com/eisoch/irg/issues/92) Variant with the same meaning and components
 
@@ -81,11 +91,3 @@
 ## Reading mark
 
 [\#104](https://github.com/eisoch/irg/issues/104) Vietnamese Reading Marks
-
-## Source character set
-
-[\#21](https://github.com/eisoch/irg/issues/21) Duplicates in SJ/T 11239-2001
-
-[\#72](https://github.com/eisoch/irg/issues/72) Original V Codes in TCVN 5773 and TCVN 6056
-
-[\#106](https://github.com/eisoch/irg/issues/106) Duplicates in Chinese character sets
