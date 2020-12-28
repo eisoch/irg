@@ -81,3 +81,11 @@
 ## Reading mark
 
 [\#104](https://github.com/eisoch/irg/issues/104) Vietnamese Reading Marks
+
+## Source character set
+
+[\#21](https://github.com/eisoch/irg/issues/21) Duplicates in SJ/T 11239-2001
+
+[\#72](https://github.com/eisoch/irg/issues/72) Original V Codes in TCVN 5773 and TCVN 6056
+
+[\#106](https://github.com/eisoch/irg/issues/106) Duplicates in Chinese character sets
