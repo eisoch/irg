@@ -52,6 +52,8 @@
 
 [\#94](https://github.com/eisoch/irg/issues/94) Disunifiable similar characters
 
+[\#107](https://github.com/eisoch/irg/issues/107) SCS details
+
 ## Glyph
 
 [\#76](https://github.com/eisoch/irg/issues/76) Possible normalized glyphs
