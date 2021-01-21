@@ -93,3 +93,7 @@
 ## Reading mark
 
 [\#104](https://github.com/eisoch/irg/issues/104) Vietnamese Reading Marks
+
+## Localization
+
+[\#109](https://github.com/eisoch/irg/issues/109) Mapping correction for [Moji_Joho](https://mojikiban.ipa.go.jp/search/home)
