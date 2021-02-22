@@ -97,3 +97,7 @@
 ## Localization
 
 [\#109](https://github.com/eisoch/irg/issues/109) Mapping correction for [Moji_Joho](https://mojikiban.ipa.go.jp/search/home)
+
+## Usage
+
+[\#113](https://github.com/eisoch/irg/issues/113) Bouyei characters in IRG WS
