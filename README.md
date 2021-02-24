@@ -1,4 +1,4 @@
-# CONTENTS
+# *MAIN CONTENTS*
 
 ## Horizontal extensions for IRG
 
@@ -101,3 +101,5 @@
 ## Usage
 
 [\#113](https://github.com/eisoch/irg/issues/113) Bouyei characters in IRG WS
+
+[\#115](https://github.com/eisoch/irg/issues/115) Huayuan Miao characters in IRG WS
